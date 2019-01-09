@@ -1,4 +1,4 @@
-# Palindex
+# Palindex  [![Build Status](https://travis-ci.com/cdrrazan/palindex.svg?token=1hzije7rQ2UE626B6DRP&branch=master)](https://travis-ci.com/cdrrazan/palindex)
 
 `palindex` is a sample Ruby gem created in [*Learn Enough Ruby to Be Dangerous*](https://www.learnenough.com/ruby-tutorial) by Michael Hartl.
 
